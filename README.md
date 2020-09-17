@@ -7,7 +7,7 @@ Still Eager to learn and accomplish more in the field!
 
 ### Projects/Past Trials
 I tried Roblox game development before, so you can assume that I know a little bit of Lua.
-Right now, I am into developing [Alfred Wigans](https://discord.com/api/oauth2/authorize?client_id=744149940082835577&permissions=0&scope=bot) (A discord Bot) but thats a large WIP. You can't expect me to be done with it anytime soon.
+Right now, I am into developing Alfred Wigans- a discord bot ([invite link)](https://discord.com/api/oauth2/authorize?client_id=744149940082835577&permissions=0&scope=bot) but thats a large WIP. You can't expect me to be done with it anytime soon.
 <!--
 **PsychicSimp/PsychicSimp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -2,7 +2,7 @@
 I'm PsychicSimp. No idea why you're here. But here goes.
 
 ### About
-I am still in high school right now, I like to code on and off- whenever time permits. I am currently into Discord Bot developing and prefer to code with Python.
+I am still in high school right now, I like to code on and off- whenever time permits.
 Still Eager to learn and accomplish more in the field!
 
 ### Projects/Past Trials

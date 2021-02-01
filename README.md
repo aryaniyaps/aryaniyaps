@@ -1,18 +1,16 @@
 ## Hello
 I'm CosmicReindeer. No idea why you're here. But here goes.
 
-### About
-I am still in high school right now, I like to code on and off- whenever time permits.
-Still Eager to learn and accomplish more in the field!
+![CosmicReindeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=CosmicReindeer&custom_title=CosmicReindeer's+Stats&count_private=true&include_all_commits=true&theme=react)
 
 ### Projects/Past Trials
 I tried Roblox game development before, so you can assume that I know a little bit of Lua.
 I also worked on discord.py bot development for about two months, I am quite proficient in it.
-Right now I am working with tkinter GUIs and the like, regarding desktop app development.
+Right now I am working with pythonic backend-frameworks like Django to create RESTful + websocket apis.
 
 ### Current Skillset
 - **Python-** Proficient
-- **JavaScript/ webdev-** Learning for quite a while now
+- **TypeScript/ webdev-** Learning for quite a while now
 - **Sql Databases [query]-** Intermediate
 
 <!--

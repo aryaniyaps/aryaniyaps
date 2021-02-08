@@ -16,9 +16,12 @@ I also worked on discord.py bot development for about two months, I am quite pro
 Right now I am working with pythonic backend-frameworks like Django to create RESTful + websocket apis.
 
 ### Current Skillset
-- **Python-** Proficient
-- **TypeScript/ webdev-** Learning for quite a while now
-- **Sql Databases [query]-** Intermediate
+| Languages/Tools | Status       |
+|-----------------|--------------|
+| Python          | Proficient   |
+| Django          | Proficient   |
+| Typescript      | Learning     |
+| SQL Databases   | intermediate |
 
 <!--
 **PsychicSimp/PsychicSimp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

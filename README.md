@@ -21,7 +21,7 @@ Right now I am working with pythonic backend-frameworks like Django to create RE
 | Python          | Proficient   |
 | Django          | Proficient   |
 | Typescript      | Learning     |
-| SQL Databases   | intermediate |
+| SQL Databases   | Intermediate |
 
 <!--
 **PsychicSimp/PsychicSimp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

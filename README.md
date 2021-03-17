@@ -20,7 +20,8 @@ Right now I am working with pythonic backend-frameworks like Django to create RE
 |-----------------|--------------|
 | Python          | Proficient   |
 | Django          | Proficient   |
-| Typescript      | Learning     |
+| JavaScript      | Learning     |
+| React           | Learning     |
 | SQL Databases   | Intermediate |
 
 <!--

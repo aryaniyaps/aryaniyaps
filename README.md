@@ -1,7 +1,7 @@
 ## Hello
 I'm CosmicReindeer. No idea why you're here. But here goes.
 
-![CosmicReindeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=CosmicReindeer&custom_title=CosmicReindeer's+Stats&count_private=true&include_all_commits=true&hide=contribs,issues&theme=react)
+![CosmicReindeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan340&custom_title=Aryan's+Stats&count_private=true&include_all_commits=true&hide=contribs,issues&theme=react)
 
 #### Languages and Tools
 <code><img height="20" src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></code>

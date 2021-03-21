@@ -1,5 +1,5 @@
 ## Hello
-I'm Aryan. No idea why you're here. But here goes.
+I'm Aryan, a 15 year old web developer.
 
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan340&custom_title=Aryan's+Stats&count_private=true&include_all_commits=true&hide=contribs,issues&theme=react)
 

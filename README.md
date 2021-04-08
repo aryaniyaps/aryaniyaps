@@ -1,12 +1,7 @@
 ## Hello
 I'm Aryan, a 15 year old web developer.
 
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan340&custom_title=Aryan's+Stats&count_private=true&include_all_commits=true&theme=react)
-
-#### Languages and Tools
-<code><img height="20" src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"/></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"/></code>
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan340&custom_title=Aryan's+Stats&count_private=true&include_all_commits=true&hide=stars,issues&theme=react)
 
 ### Past Trials/ Experience
 I got into programming through roblox game development (you can assume I know a little bit of lua).

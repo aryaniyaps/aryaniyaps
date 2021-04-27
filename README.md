@@ -16,8 +16,8 @@ Right now, I am in highschool and like to code on and off - whenever time permit
 |----------------------|--------------|
 | Python               | Proficient   |
 | Django               | Proficient   |
-| JavaScript           | Learning     |
-| React                | Learning     |
+| JavaScript           | Minimal      |
+| React                | Minimal      |
 | Relational Databases | Intermediate |
 
 <!--

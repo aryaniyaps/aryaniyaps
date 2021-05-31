@@ -1,7 +1,7 @@
 ## Hello
 I'm Aryan, a 15 year old web developer.
-
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan340&count_private=true&include_all_commits=true&hide=stars,issues&theme=react)
+ 
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan340&custom_title=Aryan's%20Stats&count_private=true&include_all_commits=true&hide=stars,issues&theme=react)
 
 - Currently working with django, reactjs and scrapy.
 

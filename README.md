@@ -1,17 +1,18 @@
 ## Hello
 I'm Aryan, a 15 year old web developer. <br />
-Currently working with django, reactjs and scrapy.
+Currently working with [django](https://www.djangoproject.com/), [reactjs](https://reactjs.org/) and [tailwindCSS](https://tailwindcss.com/).
  
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan340&custom_title=Aryan's%20Stats&count_private=true&include_all_commits=true&hide=stars,issues&theme=react)
 
 ### Current Skillset
-| Languages/Tools      | Status       |
+| Languages/Frameworks | Status       |
 |----------------------|--------------|
 | Python               | Proficient   |
 | Django               | Proficient   |
 | Scrapy               | Intermediate |
 | JavaScript           | Intermediate |
 | React                | Intermediate |
+| TailwindCSS          | Proficient   |
 
 <!--
 **aryan340/aryan340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

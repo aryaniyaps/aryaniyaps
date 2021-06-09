@@ -12,7 +12,6 @@ Currently working with [django](https://www.djangoproject.com/), [reactjs](https
 | Scrapy               | Intermediate |
 | JavaScript           | Intermediate |
 | React                | Intermediate |
-| TailwindCSS          | Proficient   |
 
 <!--
 **aryan340/aryan340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

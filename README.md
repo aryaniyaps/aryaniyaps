@@ -14,6 +14,7 @@ Currently working with [Flask](https://flask.palletsprojects.com/), [NextJS](htt
 | SQLAlchemy           | Intermediate |
 | JavaScript           | Intermediate |
 | React                | Intermediate |
+| TailwindCSS          | Proficient   |
 
 <!--
 **aryan340/aryan340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

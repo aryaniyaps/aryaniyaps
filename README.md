@@ -1,6 +1,6 @@
 ## Hello
 I'm Aryan, a 15 year old web developer. <br />
-Currently working with [Flask](https://flask.palletsprojects.com/), [NextJS](https://nextjs.org/) and [tailwindCSS](https://tailwindcss.com/).
+Currently working with [Express](https://expressjs.com/), [NextJS](https://nextjs.org/) and [tailwindCSS](https://tailwindcss.com/).
  
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan340&custom_title=Aryan's%20Stats&count_private=true&include_all_commits=true&hide=stars,issues&theme=react)
 
@@ -9,11 +9,9 @@ Currently working with [Flask](https://flask.palletsprojects.com/), [NextJS](htt
 |----------------------|--------------|
 | Python               | Proficient   |
 | Django               | Proficient   |
-| Flask                | Intermediate |
-| Graphene             | Intermediate |
-| SQLAlchemy           | Intermediate |
-| JavaScript           | Intermediate |
-| React                | Intermediate |
+| Typescript           | Intermediate |
+| ReactJS              | Intermediate |
+| ExpressJS            | Intermediate |
 | TailwindCSS          | Proficient   |
 
 <!--

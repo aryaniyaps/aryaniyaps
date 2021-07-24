@@ -1,4 +1,4 @@
-## Hello
+## Hello 👋
 I'm Aryan, a 15 year old web developer. <br />
 Currently working with [Express](https://expressjs.com/), [NextJS](https://nextjs.org/) and [tailwindCSS](https://tailwindcss.com/).
  

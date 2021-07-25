@@ -11,6 +11,7 @@ Currently working with [Express](https://expressjs.com/), [NextJS](https://nextj
 | Django               | Proficient   |
 | Typescript           | Intermediate |
 | ReactJS              | Intermediate |
+| React Native         | Intermediate |
 | TailwindCSS          | Proficient   |
 
 <!--

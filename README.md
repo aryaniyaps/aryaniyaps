@@ -12,7 +12,7 @@ Currently working with [Express](https://expressjs.com/), [NextJS](https://nextj
 | Typescript           | Intermediate |
 | ReactJS              | Intermediate |
 | React Native         | Intermediate |
-| TailwindCSS          | Proficient   |
+| Elixir               | Minimal      |
 
 <!--
 **aryan340/aryan340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -9,6 +9,7 @@ Currently working with [Flask](https://flask.palletsprojects.com/), [ReactJS](ht
 |----------------------|--------------|
 | Python               | Proficient   |
 | Django               | Proficient   |
+| Flask                | Proficient   |
 | Typescript           | Intermediate |
 | ReactJS              | Intermediate |
 | React Native         | Intermediate |

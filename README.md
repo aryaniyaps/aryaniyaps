@@ -1,6 +1,6 @@
 ## Hello 👋
-I'm Aryan, a 15 year old web developer. <br />
-Currently working with [Flask](https://flask.palletsprojects.com/), [ReactJS](https://reactjs.org/) and [tailwindCSS](https://tailwindcss.com/).
+I'm Aryan, a software developer/ enthusiast from India. <br />
+Currently working to improve the [GraphQL](https://graphql.org/) ecosystem in Python.
  
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebyaryan&custom_title=Aryan's%20Stats&count_private=true&include_all_commits=true&hide=stars,issues&theme=react)
 
@@ -12,8 +12,6 @@ Currently working with [Flask](https://flask.palletsprojects.com/), [ReactJS](ht
 | Flask                | Proficient   |
 | Typescript           | Intermediate |
 | ReactJS              | Intermediate |
-| React Native         | Intermediate |
-| Elixir               | Minimal      |
 
 <!--
 **aryan340/aryan340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,8 @@
 I'm Aryan, a software developer/ enthusiast from India. <br />
 Currently working to improve the [GraphQL](https://graphql.org/) ecosystem in Python.
  
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebyaryan&custom_title=Aryan's%20Stats&count_private=true&include_all_commits=true&hide=stars,issues&theme=react)
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryaniyaps&custom_title=Aryan's%20Stats&count_private=true&include_all_commits=true&hide=stars,issues&theme=react)
+
 
 ### Current Skillset
 | Languages/Frameworks | Status       |

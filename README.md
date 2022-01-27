@@ -10,6 +10,7 @@ Currently working to improve the [GraphQL](https://graphql.org/) ecosystem in Py
 |----------------------|--------------|
 | Python               | Proficient   |
 | Django               | Proficient   |
+| FastAPI              | Proficient   |
 | Flask                | Proficient   |
 | Typescript           | Intermediate |
 | ReactJS              | Intermediate |

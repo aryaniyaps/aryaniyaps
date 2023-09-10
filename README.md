@@ -1,19 +1,11 @@
 ## Hello 👋
-I'm Aryan, a software developer/ enthusiast from India. <br />
-Currently working to improve the [GraphQL](https://graphql.org/) ecosystem in Python.
- 
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryaniyaps&custom_title=Aryan's%20Stats&count_private=true&include_all_commits=true&hide=stars,issues&theme=react)
+I'm Aryan Iyappan!
 
+At 17, I'm fuelled by an unwavering passion to reshape our digital landscape by crafting software solutions that champion transparency and privacy. As an IT student at CEG, I'm not just learning the intricacies of tech; I'm envisioning a world where people's digital identities are both secure and transparent.
 
-### Current Skillset
-| Languages/Frameworks | Status       |
-|----------------------|--------------|
-| Python               | Proficient   |
-| Django               | Proficient   |
-| FastAPI              | Proficient   |
-| Flask                | Proficient   |
-| Typescript           | Intermediate |
-| ReactJS              | Intermediate |
+Always open to connecting with like-minded peers, mentors, and industry experts who believe in a digital future rooted in privacy and transparency. Let's shape the future together!
+
+- 😄 Pronouns: he/him/his
 
 <!--
 **aryan340/aryan340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

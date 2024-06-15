@@ -1,7 +1,7 @@
 ## Hello 👋
 I'm Aryan Iyappan!
 
-At 17, I'm fuelled by an unwavering passion to reshape our digital landscape by crafting software solutions that champion transparency and privacy. As an IT student at CEG, I'm not just learning the intricacies of tech; I'm envisioning a world where people's digital identities are both secure and transparent.
+At 18, I'm fuelled by an unwavering passion to reshape our digital landscape by crafting software solutions that champion transparency and privacy. As an IT student at CEG, I'm not just learning the intricacies of tech; I'm envisioning a world where people's digital identities are both secure and transparent.
 
 Always open to connecting with like-minded peers, mentors, and industry experts who believe in a digital future rooted in privacy and transparency. Let's shape the future together!
 

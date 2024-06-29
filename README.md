@@ -20,7 +20,7 @@ Always open to connecting with like-minded peers, mentors, and industry experts 
   <img src="https://github-readme-stats.vercel.app/api?username=aryaniyaps&show_icons=true" />
 </picture>
 
-### My skillset
+### My technical skillset
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,prisma,nextjs,react,tailwind,graphql,python,fastapi,postgres,mongodb,redis,rabbitmq,docker,git&perline=8)](https://skillicons.dev)
 

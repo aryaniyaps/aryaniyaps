@@ -6,6 +6,23 @@ Always open to connecting with like-minded peers, mentors, and industry experts 
 
 - 😄 Pronouns: he/him/his
 
+### My skillset
+
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,prisma,nextjs,react,tailwind,graphql,python,fastapi,postgres,mongodb,redis,rabbitmq,docker,git&perline=8)](https://skillicons.dev)
+
+<picture>
+  <source
+    srcset="https://skillicons.dev/icons?i=ts,nodejs,express,prisma,nextjs,react,tailwind,graphql,python,fastapi,postgres,mongodb,redis,rabbitmq,docker,git&perline=8"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://skillicons.dev/icons?i=ts,nodejs,express,prisma,nextjs,react,tailwind,graphql,python,fastapi,postgres,mongodb,redis,rabbitmq,docker,git&perline=8&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+</picture>
+
+### My GitHub Stats
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=aryaniyaps&show_icons=true&theme=github_dark"
@@ -15,7 +32,7 @@ Always open to connecting with like-minded peers, mentors, and industry experts 
     srcset="https://github-readme-stats.vercel.app/api?username=aryaniyaps&show_icons=true&theme=solarized-light"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryaniyaps&show_icons=true" />
 </picture>
 
 <!--

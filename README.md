@@ -7,6 +7,18 @@ Always open to connecting with like-minded peers, mentors, and industry experts 
 
 - 😄 Pronouns: he/him/his
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=aryaniyaps&show_icons=true&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=aryaniyaps&show_icons=true&theme=solarized-light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
 <!--
 **aryan340/aryan340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -22,15 +22,15 @@ Always open to connecting with like-minded peers, mentors, and industry experts 
 
 ### My technical skillset
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,prisma,nextjs,react,tailwind,graphql,python,fastapi,django,postgres,mongodb,redis,rabbitmq,docker,git,elixir,pytorch,sklearn,azure&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,prisma,nextjs,react,tailwind,graphql,python,fastapi,django,postgres,mongodb,redis,rabbitmq,docker,git,elixir,pytorch,sklearn,terraform,azure&perline=8)](https://skillicons.dev)
 
 <picture>
   <source
-    srcset="https://skillicons.dev/icons?i=ts,nodejs,express,prisma,nextjs,react,tailwind,graphql,python,fastapi,django,postgres,mongodb,redis,rabbitmq,docker,git,elixir,pytorch,sklearn,azure&perline=8"
+    srcset="https://skillicons.dev/icons?i=ts,nodejs,express,prisma,nextjs,react,tailwind,graphql,python,fastapi,django,postgres,mongodb,redis,rabbitmq,docker,git,elixir,pytorch,sklearn,terraform,azure&perline=8"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://skillicons.dev/icons?i=ts,nodejs,express,prisma,nextjs,react,tailwind,graphql,python,fastapi,django,postgres,mongodb,redis,rabbitmq,docker,git,elixir,pytorch,sklearn,azure&perline=8&theme=light"
+    srcset="https://skillicons.dev/icons?i=ts,nodejs,express,prisma,nextjs,react,tailwind,graphql,python,fastapi,django,postgres,mongodb,redis,rabbitmq,docker,git,elixir,pytorch,sklearn,terraform,azure&perline=8&theme=light"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
 </picture>

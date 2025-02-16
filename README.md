@@ -30,11 +30,11 @@ Always open to connecting with like-minded peers, mentors, and industry experts 
 
 <picture>
   <source
-    srcset="https://skillicons.dev/icons?i=ts,nodejs,express,prisma,nextjs,react,tailwind,graphql,python,fastapi,postgres,mongodb,redis,rabbitmq,docker,git,elixir,pytorch,sklearn,terraform,azure,aws&perline=8"
+    srcset="https://skillicons.dev/icons?i=ts,nodejs,go,express,prisma,nextjs,react,tailwind,graphql,python,fastapi,postgres,mongodb,redis,rabbitmq,docker,git,elixir,pytorch,sklearn,terraform,azure,aws&perline=8"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://skillicons.dev/icons?i=ts,nodejs,express,prisma,nextjs,react,tailwind,graphql,python,fastapi,postgres,mongodb,redis,rabbitmq,docker,git,elixir,pytorch,sklearn,terraform,azure,aws&perline=8&theme=light"
+    srcset="https://skillicons.dev/icons?i=ts,nodejs,go,express,prisma,nextjs,react,tailwind,graphql,python,fastapi,postgres,mongodb,redis,rabbitmq,docker,git,elixir,pytorch,sklearn,terraform,azure,aws&perline=8&theme=light"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
 </picture>

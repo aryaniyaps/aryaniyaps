@@ -39,8 +39,12 @@ Always open to connecting with like-minded peers, mentors, and industry experts 
 
 ### Certifications
 <p align="left">
+  <a href="https://www.credly.com/badges/2f533372-8eca-4058-8b6c-2ff5db72feb9/public_url">
   <img src="./assets/aws-certified-developer-associate.png" width="150" title="AWS Certified Developer Associate">
+  </a>
+  <a href="https://www.credly.com/badges/593e69a4-8179-4a6b-aef6-202ef287327c/public_url">
   <img src="./assets/aws-certified-cloud-practitioner.png" width="150" alt="AWS Certified Cloud Practitioner">
+  </a>
 </p>
 
 <!--

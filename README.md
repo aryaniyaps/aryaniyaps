@@ -38,9 +38,9 @@ Always open to connecting with like-minded peers, mentors, and industry experts 
 </picture>
 
 ### Certifications
-<p align="center">
-  <img src="./assets/aws-certified-developer-associate.png" width="350" title="AWS Certified Developer Associate">
-  <img src="./assets/aws-certified-cloud-practitioner.png" width="350" alt="AWS Certified Cloud Practitioner">
+<p align="left">
+  <img src="./assets/aws-certified-developer-associate.png" width="150" title="AWS Certified Developer Associate">
+  <img src="./assets/aws-certified-cloud-practitioner.png" width="150" alt="AWS Certified Cloud Practitioner">
 </p>
 
 <!--

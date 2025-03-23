@@ -37,6 +37,12 @@ Always open to connecting with like-minded peers, mentors, and industry experts 
   />
 </picture>
 
+### Certifications
+<p align="center">
+  <img src="./assets/aws-certified-developer-associate.png" width="350" title="AWS Certified Developer Associate">
+  <img src="./assets/aws-certified-cloud-practitioner.png" width="350" alt="AWS Certified Cloud Practitioner">
+</p>
+
 <!--
 **aryan340/aryan340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,8 +4,6 @@ At 18, I'm fuelled by an unwavering passion to reshape our digital landscape by 
 
 Always open to connecting with like-minded peers, mentors, and industry experts who believe in a digital future rooted in privacy and transparency. Let's shape the future together!
 
-- 😄 Pronouns: he/him/his
-
 - 🌱 I’m currently learning Golang
 
 - 💬 Ask me about Python, GraphQL, Relay, Next.js
